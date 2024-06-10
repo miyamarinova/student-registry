@@ -2,4 +2,8 @@
 
 
 # STUDENT REGISTRY APP
+<<<<<<< Updated upstream
 Sample app for student registry
+=======
+Sample app for student registry
+>>>>>>> Stashed changes
